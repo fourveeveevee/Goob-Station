@@ -507,7 +507,7 @@
           inverted: true
         effectProto: StatusEffectForcedSleeping
         time: 6
-        delay: 5
+        #delay: 5 # Goobstation - No delay before honk mimimimi
 
 - type: reagent
   id: MuteToxin
